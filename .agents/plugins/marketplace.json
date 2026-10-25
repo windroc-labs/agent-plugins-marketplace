@@ -1,0 +1,32 @@
+{
+  "name": "windroc",
+  "interface": {
+    "displayName": "Windroc Labs"
+  },
+  "plugins": [
+    {
+      "name": "updraft",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/windroc-labs/updraft.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "ensemble",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/windroc-labs/ensemble.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

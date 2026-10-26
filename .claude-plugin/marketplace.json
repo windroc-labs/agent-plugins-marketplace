@@ -20,15 +20,6 @@
         "url": "https://github.com/windroc-labs/ensemble.git"
       },
       "description": "Guidelines for your commander session (/ensemble:manage), and ensemble's core roles and tasks, researcher, pm and engineer, run in this conversation (/ensemble:act-as), and fixed board issue commands (/ensemble:board)."
-    },
-    {
-      "name": "mini-op",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/windroc/mini-op.git",
-        "path": "plugin"
-      },
-      "description": "/mini-op:run: operate the Mac mini test machine from the mini-op container. Needs access to the private repo windroc/mini-op; works only in the mini-op image (mini-op:env)."
     }
   ]
 }

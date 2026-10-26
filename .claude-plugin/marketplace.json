@@ -17,7 +17,9 @@
       "name": "ensemble",
       "source": {
         "source": "url",
-        "url": "https://github.com/windroc-labs/ensemble.git"
+        "url": "https://github.com/windroc-labs/ensemble.git",
+        "ref": "v0.3.0",
+        "ref": "v0.3.0"
       },
       "description": "Guidelines for your commander session (/ensemble:manage), and ensemble's core roles and tasks, researcher, pm and engineer, run in this conversation (/ensemble:act-as), and fixed board issue commands (/ensemble:board)."
     }

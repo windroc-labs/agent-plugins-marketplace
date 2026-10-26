@@ -11,7 +11,7 @@
         "source": "url",
         "url": "https://github.com/windroc-labs/updraft.git"
       },
-      "description": "Autonomous end-to-end feature pipeline: worktree, spec + review loop, plan, orchestrator implementation, tests, code-review loop, docs \u2014 driven by named expert review teams and Ralph convergence loops."
+      "description": "Autonomous end-to-end feature pipeline: worktree, spec + review loop, plan, orchestrator implementation, tests, code-review loop, docs — driven by named expert review teams and Ralph convergence loops."
     },
     {
       "name": "ensemble",

@@ -11,7 +11,7 @@
         "source": "url",
         "url": "https://github.com/windroc-labs/updraft.git"
       },
-      "description": "Autonomous end-to-end feature pipeline: worktree, spec + review loop, plan, orchestrator implementation, tests, code-review loop, docs — driven by named expert review teams and Ralph convergence loops."
+      "description": "Autonomous end-to-end feature pipeline: worktree, spec + review loop, plan, orchestrator implementation, tests, code-review loop, docs \u2014 driven by named expert review teams and Ralph convergence loops."
     },
     {
       "name": "ensemble",
@@ -20,15 +20,6 @@
         "url": "https://github.com/windroc-labs/ensemble.git"
       },
       "description": "Guidelines for your commander session (/ensemble:manage), and ensemble's core roles and tasks, researcher, pm and engineer, run in this conversation (/ensemble:act-as), and fixed board issue commands (/ensemble:board)."
-    },
-    {
-      "name": "mini-op",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/windroc/mini-op.git",
-        "path": "plugin"
-      },
-      "description": "/mini-op:run: operate the Mac mini test machine from the mini-op container. Needs access to the private repo windroc/mini-op; works only in the mini-op image (mini-op:env)."
     }
   ]
 }

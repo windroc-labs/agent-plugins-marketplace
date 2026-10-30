@@ -21,7 +21,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/windroc-labs/ensemble.git",
-        "ref": "v0.6.13"
+        "ref": "v0.6.14"
       },
       "policy": {
         "installation": "AVAILABLE",
